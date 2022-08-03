@@ -12,7 +12,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 2. Clone the new repository to your computer.
 
-3. Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: **Leaflet-Part-1** and **Leaflet-Part-2**.
+3. Inside your local git repository, create a directory for the Leaflet challenge.
 
 4. This homework uses both **HTML** and **JavaScript**, so be sure to add all the necessary files. These will be the main files to run for analysis.
 
@@ -20,13 +20,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ## Instructions
 
-The instructions for this activity are broken into two parts: 
-
-* Part 1: Create the Earthquake Visualization 
-
-* Part 2: Gather and Plot More Data (Optional)
-
-### Part 1: Create the Earthquake Visualization
+### Create the Earthquake Visualization
 
 ![2-BasicMap](Images/2-BasicMap.png)
 
