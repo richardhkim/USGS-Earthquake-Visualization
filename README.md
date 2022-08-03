@@ -1,3 +1,5 @@
+# Live Website Demo: https://richardhkim.github.io/leaflet-challenge/
+------------------------------------------------------------------
 # Unit 15 Homework: Visualizing Data with Leaflet
 
 ## Background
