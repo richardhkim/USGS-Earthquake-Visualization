@@ -57,28 +57,5 @@ Your first task is to visualize an earthquake dataset. Complete the following st
    * Your visualization should look something like the preceding map.
 
 - - -
-
-### Part 2: Gather and Plot More Data (Optional)
-
-The USGS wants you to plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. So, you will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
-
-The following image is an example screenshot of what the USGS would like you to produce:
-
-![5-Advanced](Images/5-Advanced.png)
-
-Perform the following tasks: 
-
-* Plot the tectonic plates dataset on the map in addition to the earthquakes.
-
-* Add other base maps to choose from.
-
-* Put each dataset into separate overlays that can be turned on and off independently.
-
-* Add layer controls to our map.
-
-## Rubric
-
-[Unit 15 Homework Rubric](https://docs.google.com/document/d/1kDNeT4a54ik_AZrHYN3LmVMqH0hDuiwbK2h5lHNxumQ/edit?usp=sharing)
-
 ___
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
